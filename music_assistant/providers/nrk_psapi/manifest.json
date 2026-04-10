@@ -1,0 +1,14 @@
+{
+  "domain": "nrk_psapi",
+  "name": "NRK Radio & Podkast",
+  "version": "0.1.0",
+  "stage": "beta",
+  "description": "NRK provider powered by nrk-psapi with live radio, radio replay, and podcasts.",
+  "documentation": "https://github.com/heikkih/nrk-psapi/tree/feat/personalization-auth-typing",
+  "requirements": ["nrk-psapi @ git+https://github.com/heikkih/nrk-psapi.git@feat/personalization-auth-typing"],
+  "icon": "mdi:radio-tower",
+  "type": "music",
+  "dependencies": [],
+  "config_entries": [],
+  "codeowners": ["@heikkih"]
+}
